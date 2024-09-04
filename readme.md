@@ -1,6 +1,6 @@
 <body>
     <div align="center">
-        <a href="https://felipe0424.github.io/projeto-assinatura/" target="_blank">
+        <a href="https://felipe0424.github.io/local-turistico/" target="_blank">
         <img src="assets/Thumbnail.png" alt="Projeto Local Turístico" width="auto">
         </a>
     </div>
